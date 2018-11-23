@@ -1,5 +1,5 @@
 # CreateDataset_IXS_80_2018
-创建类CUB_200_2011的鸟类数据集IXS_80_2018，80个类，6757张图像，生成包括images.txt，classes.txt，image_class_labels.txt，train_test_split.txt等必须文件  
+创建类CUB_200_2011的鸟类数据集IXS_80_2018，80个类，6757张图像，其中训练集3462张，测试集3295张；生成包括images.txt，classes.txt，image_class_labels.txt，train_test_split.txt等必须文件  
 ------
 Process step：
 ------

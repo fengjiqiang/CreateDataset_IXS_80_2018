@@ -8,4 +8,5 @@ Process step：
 * 生成images.txt文件 create_images.py  
 * 生成classes.txt文件 create_classes.py  
 * 生成image_classes.txt文件(中间文件) create_image_classes.py  
-* 生成image_class_labels.txt文件 create_image_class_labels.py
+* 生成image_class_labels.txt文件 create_image_class_labels.py  
+* 生成训练集与测试集 dataset.py
